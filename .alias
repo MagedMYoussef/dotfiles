@@ -1,0 +1,13 @@
+# ***********************************
+# ********* Aliases *****************
+# ***********************************
+
+alias lr            'ls -ltR'
+alias la            'ls -la'
+alias l             'ls'
+alias ls            'ls --color=auto'
+alias ..            'cd ..'
+alias df            'df -kh'
+alias dus           'du -khs'               # Show summary
+alias free          'free -m'               # Size in MB
+alias ping          'ping -c 5'
